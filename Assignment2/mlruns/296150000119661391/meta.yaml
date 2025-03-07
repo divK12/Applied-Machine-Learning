@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/296150000119661391
+creation_time: 1741363343908
+experiment_id: '296150000119661391'
+last_update_time: 1741363343908
+lifecycle_stage: active
+name: SMS_Spam_Classification

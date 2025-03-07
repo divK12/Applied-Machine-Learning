@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/296150000119661391/2a759dbf4a2648d38589134a0f1ef9a0/artifacts
+end_time: 1741363376964
+entry_point_name: ''
+experiment_id: '296150000119661391'
+lifecycle_stage: active
+run_id: 2a759dbf4a2648d38589134a0f1ef9a0
+run_name: Random Forest
+run_uuid: 2a759dbf4a2648d38589134a0f1ef9a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741363371096
+status: 3
+tags: []
+user_id: LENOVO

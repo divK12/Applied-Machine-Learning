@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/296150000119661391/2ac0068b0044451a8efe14d03a3aded7/artifacts
+end_time: 1741363358489
+entry_point_name: ''
+experiment_id: '296150000119661391'
+lifecycle_stage: active
+run_id: 2ac0068b0044451a8efe14d03a3aded7
+run_name: Naive Bayes
+run_uuid: 2ac0068b0044451a8efe14d03a3aded7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741363344093
+status: 3
+tags: []
+user_id: LENOVO

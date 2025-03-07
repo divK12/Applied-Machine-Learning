@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/296150000119661391/9fe3699ad6f14c9a8182eaf26c721746/artifacts
+end_time: 1741363371051
+entry_point_name: ''
+experiment_id: '296150000119661391'
+lifecycle_stage: active
+run_id: 9fe3699ad6f14c9a8182eaf26c721746
+run_name: SVM
+run_uuid: 9fe3699ad6f14c9a8182eaf26c721746
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741363358524
+status: 3
+tags: []
+user_id: LENOVO
