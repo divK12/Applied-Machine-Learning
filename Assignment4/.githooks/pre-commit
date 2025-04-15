@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Run tests before allowing commit
-if python "Assignment 4/test.py"; then
+if python "Assignment 4/test_score.py"; then
     echo "Tests passed. Committing changes..."
     git add "Assignment 4/test_results.txt"
     git commit --no-verify -m "Add test results"
