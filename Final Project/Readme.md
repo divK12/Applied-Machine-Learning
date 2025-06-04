@@ -71,4 +71,3 @@ This project uses Deep Convolutional GANs (DCGANs) to:
 ## 📎 Links
 
 - [CelebA Dataset](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset)
-- [Gamma App Presentation](https://gamma.app/?utm_source=made-with-gamma)
